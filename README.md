@@ -29,7 +29,7 @@ Feel free to use any technology available in the React environment to achieve th
    https://run.mocky.io/v3/3669c83a-9ba1-4424-b08f-a8ef6d699966
    The payload should be a JSON object of the form
    {
-   "username": "test.user@phrasee.co",
+   "username": "test.user@xxxx.co",
    "password": "testpassword"
    }
    A successful login will have a response with a 200 HTTP status code
